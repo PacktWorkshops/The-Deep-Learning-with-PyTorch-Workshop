@@ -17,7 +17,6 @@ To get started with the project files, you'll need to:
 
 ## About The Deep Learning with PyTorch Workshop
 Want to get to grips with one of the most popular machine learning libraries for deep learning? The Deep Learning with PyTorch Workshop will help you do just that, jumpstarting your knowledge of using PyTorch for deep learning even if you’re starting from scratch.
-It’s no surprise that deep learning’s popularity has risen steeply in the past few years, thanks to intelligent applications such as self-driving vehicles, chatbots, and voice-activated assistants that are making our lives easier. This book will take you inside the world of deep learning, where you’ll use PyTorch to understand the complexity of neural network architectures.
 
 ## What you will learn
 * Learn how to define your own network architecture in deep learning 
