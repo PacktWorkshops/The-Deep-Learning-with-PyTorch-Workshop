@@ -19,9 +19,12 @@ To get started with the project files, you'll need to:
 Want to get to grips with one of the most popular machine learning libraries for deep learning? The Deep Learning with PyTorch Workshop will help you do just that, jumpstarting your knowledge of using PyTorch for deep learning even if you’re starting from scratch.
 
 ## What you will learn
-* Learn how to define your own network architecture in deep learning 
-* Implement helpful methods to create and train a model using PyTorch syntax 
-* Discover how intelligent applications using features like image recognition and speech recognition really process your data 
+* Explore the different applications of deep learning 
+* Understand the PyTorch approach to building neural networks 
+* Create and train your very own perceptron using PyTorch 
+* Solve regression problems using artificial neural networks (ANNs) 
+* Handle computer vision problems with convolutional neural networks (CNNs) 
+* Perform language translation tasks using recurrent neural networks (RNNs) 
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
